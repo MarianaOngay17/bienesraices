@@ -47,5 +47,15 @@
         }
 
     }
+
+    table.propiedades {
+        tr {
+            td{
+                background-color: v.$blanco;
+                color: v.$negro;
+            }
+        }
+    }
+
 }
 
